@@ -1,0 +1,9 @@
+
+body{
+    background-color: rgba(240, 180, 14, 0.472);
+}
+body img{
+    width: 95%;
+  height: 40%;
+  border-radius: 100px;
+}
